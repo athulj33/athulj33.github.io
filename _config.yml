@@ -91,9 +91,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Your University Name
-        sub_title: Bachelor's Degree in Electrical Engineering
-        caption: 2019 - 2023
+        title: Government Engineering College Thrissur
+        sub_title: Bachelor's Degree in Electrical and Electronics Engineering
+        caption: 2020 - 2024
         quote: >
           Specialized in **Power Systems** and **Machine Learning Applications**.
         description: |
