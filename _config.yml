@@ -49,7 +49,7 @@ content:
         border: weak
         title: Internship at KSEB 400 kV Substation, Madakkathara
         quote: >
-          Practical knowledge in **High-voltage power transmission** and **Load management**.
+          Practical knowledge in <b>High-voltage power transmission</b> and <b>Load management</b>.
         description: |
           - Worked on **Real-time monitoring** of electrical parameters.
           - Learned about **SCADA & protective relays**.
@@ -58,7 +58,7 @@ content:
         border: weak
         title: Regrouping and Re-purposing of Retired Li-ion Batteries
         quote: >
-          Implemented **Support Vector Clustering** to efficiently repurpose old Li-ion batteries.
+          Implemented <b>Support Vector Clustering</b> to efficiently repurpose old Li-ion batteries.
         description: |
           - Used **Machine Learning** for battery health assessment.
           - Developed a strategy for cost-effective battery reuse.
@@ -67,7 +67,7 @@ content:
         border: weak
         title: Alcohol Detection and Engine Locking Using Arduino
         quote: >
-          Designed a safety mechanism using **Sensors & Arduino**.
+          Designed a safety mechanism using <b>Sensors & Arduino</b>.
         description: |
           - Developed an embedded system that locks the engine when alcohol is detected.
           - Programmed in **C++ for microcontrollers**.
