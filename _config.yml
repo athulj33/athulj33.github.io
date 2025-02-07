@@ -40,7 +40,7 @@ content:
         border: weak
         title: Internship at KSEB Generating Station, Idukki
         quote: >
-          Gained hands-on experience in **hydroelectric power generation** and **data analysis** for optimization.
+          Gained hands-on experience in **Hydroelectric power generation** and **Data analysis** for optimization.
         description: |
           - Studied the operation of hydroelectric plants.
           - Analyzed efficiency metrics using **Python & MATLAB**.
@@ -49,9 +49,9 @@ content:
         border: weak
         title: Internship at KSEB 400 kV Substation, Madakkathara
         quote: >
-          Practical knowledge in **high-voltage power transmission** and **load management**.
+          Practical knowledge in **High-voltage power transmission** and **Load management**.
         description: |
-          - Worked on **real-time monitoring** of electrical parameters.
+          - Worked on **Real-time monitoring** of electrical parameters.
           - Learned about **SCADA & protective relays**.
 
       - layout: left
@@ -67,7 +67,7 @@ content:
         border: weak
         title: Alcohol Detection and Engine Locking Using Arduino
         quote: >
-          Designed a safety mechanism using **sensors & Arduino**.
+          Designed a safety mechanism using **Sensors & Arduino**.
         description: |
           - Developed an embedded system that locks the engine when alcohol is detected.
           - Programmed in **C++ for microcontrollers**.
