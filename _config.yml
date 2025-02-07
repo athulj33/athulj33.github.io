@@ -40,7 +40,7 @@ content:
         border: weak
         title: Internship at KSEB Generating Station, Idukki
         quote: >
-          Gained hands-on experience in **Hydroelectric power generation** and **Data analysis** for optimization.
+          Gained hands-on experience in <b>Hydroelectric power generation</b> and <b>Data analysis</b> for optimization.
         description: |
           - Studied the operation of hydroelectric plants.
           - Analyzed efficiency metrics using **Python & MATLAB**.
