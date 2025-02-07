@@ -1,6 +1,6 @@
 # Site Configuration
-repository: sproogen/resume-theme  # Replace with your actual GitHub repository name
-# favicon: images/favicon.ico  # Uncomment and provide the favicon path if available
+repository: athulj33/athulj33.github.io  # Replace with your actual GitHub repository name
+favicon: images/favicon.ico  # Uncomment and provide the favicon path if available
 
 # Content Configuration
 version: 2
