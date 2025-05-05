@@ -1,15 +1,135 @@
-title: Athul Jayan
-description: Electrical Design Engineer
-url: "" # GitHub Pages will set this automatically
-baseurl: "" # Leave blank for GitHub Pages root
+# Site Configuration
+repository: athulj33/athulj33.github.io  # Replace with your actual GitHub repository name
+favicon: images/favicon.ico  # Uncomment and provide the favicon path if available
 
-theme: modern-resume-theme
+# Content Configuration
+version: 2
 
-name: Athul Jayan
-email: ""
-github_username: athulj33
+# Personal Info
+name: Athul Jayan V
+title: Electrical Engineer | Data Science & Programming Enthusiast
+email: athulj33@gmail.com
+phone: +91-9544686503
+website: https://athuljayanv.github.io  # Replace with your actual GitHub Pages URL
+
+# Dark Mode
+darkmode: false
+
+# Social Links
+github_username: AthulJayanV
+linkedin_username: athuljayanv
+twitter_username: ""  # Add your Twitter handle if available
+instagram_username: ""  # Add your Instagram handle if available
+stackoverflow_username: ""  # Add if you have a Stack Overflow profile
+
+# About Section
+about_profile_image: images/profile.jpg  # Add your profile image to the images folder
+about_content: |
+  I am an **Electrical Engineer** passionate about **Data Science**, **Machine Learning**, and **Embedded Systems**. 
+  I am always eager to learn and explore new technologies that drive innovation.
+
+  - GATE 2024 Qualified in **Data Science and AI (DS&AI)**
+  - Skilled in **Python, C++, MATLAB, AutoCAD, Revit**
+  - Experienced in **Predictive Modeling, Embedded Systems, and Machine Learning**
+
+content:
+  - title: Projects & Internships
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Internship at KSEB Generating Station, Idukki
+        quote: >
+          Gained hands-on experience in <b>Hydroelectric power generation</b> and <b>Data analysis</b> for optimization.
+        description: |
+          - Studied the operation of hydroelectric plants.
+          - Analyzed efficiency metrics using **Python & MATLAB**.
+
+      - layout: left
+        border: weak
+        title: Internship at KSEB 400 kV Substation, Madakkathara
+        quote: >
+          Practical knowledge in <b>High-voltage power transmission</b> and <b>Load management</b>.
+        description: |
+          - Worked on **Real-time monitoring** of electrical parameters.
+          - Learned about **SCADA & protective relays**.
+
+      - layout: left
+        border: weak
+        title: Regrouping and Re-purposing of Retired Li-ion Batteries
+        quote: >
+          Implemented <b>Support Vector Clustering</b> to efficiently repurpose old Li-ion batteries.
+        description: |
+          - Used **Machine Learning** for battery health assessment.
+          - Developed a strategy for cost-effective battery reuse.
+
+      - layout: left
+        border: weak
+        title: Alcohol Detection and Engine Locking Using Arduino
+        quote: >
+          Designed a safety mechanism using <b>Sensors & Arduino</b>.
+        description: |
+          - Developed an embedded system that locks the engine when alcohol is detected.
+          - Programmed in **C++ for microcontrollers**.
+
+  - title: Skills & Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Skills
+        description: |
+          - **Programming Languages:** Python, C++, MATLAB
+          - **Tools:** AutoCAD, Revit, Arduino
+          - **Domains:** Machine Learning, Embedded Systems, Predictive Modeling
+
+      - layout: left
+        title: Certifications
+        description: |
+          - **GATE 2024 Qualified** - Data Science & AI (DS&AI)
+
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Government Engineering College Thrissur
+        sub_title: Bachelor's Degree in Electrical and Electronics Engineering
+        caption: 2020 - 2024
+        quote: >
+          Specialized in **Power Systems** and **Machine Learning Applications**.
+        description: |
+          - Completed courses in **Embedded Systems, Machine Learning, and Power Electronics**.
+          - Conducted research on **Renewable Energy Integration**.
+
+  - title: Contact
+    layout: text
+    content: |
+      - **Email:** [athulj33@gmail.com](mailto:athulj33@gmail.com)
+      - **Phone:** [+91-9544686503](tel:+919544686503)
+      - **LinkedIn:** [linkedin.com/in/athuljayanv](https://linkedin.com/in/athuljayanv)
+      - **GitHub:** [github.com/AthulJayanV](https://github.com/AthulJayanV)
+
+# Footer
+footer_show_references: true
+# references_title: References on request
 
 # Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
+remote_theme: sproogen/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+  - "lib/"
+  - "scripts/"
+  - "docker-compose.yml"
