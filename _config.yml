@@ -1,0 +1,15 @@
+title: Athul Jayan
+description: Electrical Design Engineer
+url: "" # GitHub Pages will set this automatically
+baseurl: "" # Leave blank for GitHub Pages root
+
+theme: modern-resume-theme
+
+name: Athul Jayan
+email: ""
+github_username: athulj33
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
