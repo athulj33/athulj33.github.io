@@ -22,7 +22,7 @@ linkedin_username: athuljayanv
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  **Electrical Engineer** specializing in **Extra-Low Voltage (ELV)** and **ICT systems**, currently part of **ICAD Holding UAE**.
+  **Electrical Engineer** specializing in **Extra-Low Voltage (ELV)** and **ICT systems**, currently part of **ICAD Holding UAE** working on an International Airport Expansion Project in the UAE.
 
   Experienced in the **design, coordination, and implementation** of systems such as Structured Cabling, Wireless Data Networks, CCTV, Access Control, Master Clock, and other airport communication systems.  
   Passionate about **automating workflows**, developing **AutoLISP and Dynamo scripts** for CAD/BIM optimization, and exploring **networking, virtualization, and digital twin technologies**.
@@ -41,7 +41,7 @@ content:
         sub_title: ICAD Holding UAE
         caption: July 2025 – Present
         quote: >
-          Working on the design, implementation, and coordination of Airport ELV and ICT Systems.
+          Working on the <strong>design<strong>, </strong>implementation</strong>, and <strong>coordination</strong> of Airport ELV and ICT Systems.
         description: |
           - Design and coordination of **Structured Cabling, WDN, CCTV, SACS, FIDS, VOIP**, and **Master Clock systems**.
           - Preparation of **HLD & LLD documents**, IP schemas, and Revit BIM integration for ELV systems.
