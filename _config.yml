@@ -85,7 +85,7 @@ content:
         sub_title: Bachelor's in Electrical and Electronics Engineering
         caption: 2020 – 2024
         quote: >
-          Focused on **Electrical Systems**, **Embedded Design**, and **Data-driven Applications** in engineering.
+          Focused on <strong>Electrical Systems</strong>, <strong>Embedded Design</strong>, and <strong>Data-driven Applications</strong> in engineering.
         description: |
           - Final-year project: **Reusing and Repurposing of Lithium-ion Batteries using Support Vector Clustering**.
           - Applied **data analysis** techniques for battery health evaluation and reuse optimization.
@@ -95,7 +95,7 @@ content:
         title: Indian Institute of Technology Madras
         sub_title: Diploma in Data Science (Ongoing)
         quote: >
-          Expanding knowledge in **Data Science**, **Programming**, and **Applied Statistics**.
+          Expanding knowledge in <strong>Data Science</strong> and <strong>Programming</strong>
         description: |
           - Completed the **Foundations of Data Science and Programming** level.
           - Currently pursuing the **Diploma in Data Science** specialization.
