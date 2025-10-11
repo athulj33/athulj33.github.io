@@ -3,3 +3,40 @@
 ---
 
 @import 'modern-resume-theme';
+
+/* --- Mobile-only polish (desktop unaffected) --- */
+@media (max-width: 600px) {
+  /* container breathing room */
+  .container, .wrapper, main {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  /* headings scale */
+  h1 { font-size: 1.65rem; line-height: 1.15; margin-bottom: .5rem; }
+  h2, .section-title { font-size: 1.15rem; line-height: 1.2; margin: 1rem 0 .6rem; }
+  h3 { font-size: 1.02rem; line-height: 1.2; margin: .6rem 0 .35rem; }
+
+  /* tighter sections */
+  .section { padding: 0.9rem 0; }
+  .item { margin-bottom: 0.75rem; }
+
+  /* paragraphs & bullets */
+  .section p { font-size: .98rem; line-height: 1.45; margin: .35rem 0; }
+  .section ul { padding-left: 1.05rem; margin: .35rem 0; }
+  .section ul li { font-size: .98rem; line-height: 1.35; margin: .25rem 0; }
+
+  /* about card */
+  .about .profile-image img { width: 96px; height: 96px; }
+  .about .contact { margin-top: .35rem; }
+  .social-icons { gap: 8px; font-size: .95rem; }
+
+  /* prevent sideways scroll on long tech terms */
+  body, .section, .item, .description, .quote {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  /* softer dividers */
+  hr, .divider { opacity: .35; margin: .7rem 0; }
+}
