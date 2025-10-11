@@ -80,7 +80,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Government Engineering College Thrissur
         sub_title: Bachelor's in Electrical and Electronics Engineering
         caption: 2020 – 2024
@@ -91,7 +91,7 @@ content:
           - Applied **data analysis** techniques for battery health evaluation and reuse optimization.
           - Completed coursework in **Embedded Systems, Power Electronics, and Control Systems**.
 
-      - layout: top-right
+      - layout: top-left
         title: Indian Institute of Technology Madras
         sub_title: Diploma in Data Science (Ongoing)
         quote: >
