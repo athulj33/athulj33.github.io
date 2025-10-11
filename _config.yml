@@ -1,16 +1,16 @@
 # Site Configuration
-repository: athulj33/athulj33.github.io  # Replace with your actual GitHub repository name
-favicon: images/favicon.ico  # Uncomment and provide the favicon path if available
+repository: athulj33/athulj33.github.io
+favicon: images/favicon.ico
 
 # Content Configuration
 version: 2
 
 # Personal Info
 name: Athul Jayan V
-title: Electrical Engineer | Data Science & Programming Enthusiast
+title: Electrical Engineer | ELV & ICT Systems Specialist
 email: athulj33@gmail.com
-phone: +91-9544686503
-website: https://athuljayanv.github.io  # Replace with your actual GitHub Pages URL
+phone: +971-xxx-xxx-xxx  # You can keep UAE number if preferred
+website: https://athuljayanv.github.io
 
 # Dark Mode
 darkmode: true
@@ -18,99 +18,128 @@ darkmode: true
 # Social Links
 github_username: AthulJayanV
 linkedin_username: athuljayanv
-twitter_username: ""  # Add your Twitter handle if available
-instagram_username: ""  # Add your Instagram handle if available
-stackoverflow_username: ""  # Add if you have a Stack Overflow profile
+twitter_username: ""
+instagram_username: ""
+stackoverflow_username: ""
 
 # About Section
-about_profile_image: images/profile.jpg  # Add your profile image to the images folder
+about_profile_image: images/profile.jpg
 about_content: |
-  I am an **Electrical Engineer** passionate about **Data Science**, **Machine Learning**, and **Embedded Systems**. 
-  I am always eager to learn and explore new technologies that drive innovation.
+  I am an **Electrical Engineer** currently working at **ICAD Holding UAE** on the **Sharjah International Airport Expansion Project**, specializing in **Extra-Low Voltage (ELV)** and **ICT systems**.
 
-  - GATE 2024 Qualified in **Data Science and AI (DS&AI)**
-  - Skilled in **Python, C++, MATLAB, AutoCAD, Revit**
-  - Experienced in **Predictive Modeling, Embedded Systems, and Machine Learning**
+  My work involves **designing, coordinating, and implementing systems** such as Structured Cabling, Wireless Data Networks, CCTV, Access Control, Master Clock, and other airport communication systems.  
+  I am passionate about **automating workflows**, developing **AutoLISP scripts** for CAD optimization, and continuously learning about **networking, virtualization, and digital twin technologies**.
+
+  - Working on **Airport ICT & ELV Infrastructure** at **ICAD Holding**
+  - Skilled in **AutoCAD, Revit, Bluebeam, Cisco Networking, and FortiGate Firewalls**
+  - Currently pursuing certifications in **CWNA, CCNA, LEED, and BICSI Installer**
 
 content:
-  - title: Projects & Internships
+  - title: Professional Experience
     layout: list
     content:
       - layout: left
         border: weak
-        title: Internship at KSEB Generating Station, Idukki
+        title: Electrical Engineer (ELV / ICT Systems)
+        sub_title: ICAD Holding LLC – Sharjah International Airport Expansion
+        caption: 2024 – Present
         quote: >
-          Gained hands-on experience in <b>Hydroelectric power generation</b> and <b>Data analysis</b> for optimization.
+          Working on the design, implementation, and coordination of Airport ELV and ICT Systems.
         description: |
-          - Studied the operation of hydroelectric plants.
-          - Analyzed efficiency metrics using **Python & MATLAB**.
+          - Design and coordination of **Structured Cabling, WDN, CCTV, SACS, FIDS, VOIP**, and **Master Clock systems**.
+          - Preparation of **HLD & LLD documents**, IP schemas, and Revit BIM integration for ELV systems.
+          - Cross-discipline coordination with **Architectural, Structural, and ICT consultants**.
+          - Automation of repetitive CAD workflows using **AutoLISP scripts**.
+          - Familiar with **FortiGate 121G firewalls**, **Cisco CW9172/9176 APs**, and **Ekahau WiFi Planning**.
 
-      - layout: left
-        border: weak
-        title: Internship at KSEB 400 kV Substation, Madakkathara
-        quote: >
-          Practical knowledge in <b>High-voltage power transmission</b> and <b>Load management</b>.
-        description: |
-          - Worked on **Real-time monitoring** of electrical parameters.
-          - Learned about **SCADA & protective relays**.
-
-      - layout: left
-        border: weak
-        title: Regrouping and Re-purposing of Retired Li-ion Batteries
-        quote: >
-          Implemented <b>Support Vector Clustering</b> to efficiently repurpose old Li-ion batteries.
-        description: |
-          - Used **Machine Learning** for battery health assessment.
-          - Developed a strategy for cost-effective battery reuse.
-
-      - layout: left
-        border: weak
-        title: Alcohol Detection and Engine Locking Using Arduino
-        quote: >
-          Designed a safety mechanism using <b>Sensors & Arduino</b>.
-        description: |
-          - Developed an embedded system that locks the engine when alcohol is detected.
-          - Programmed in **C++ for microcontrollers**.
-
-  - title: Skills & Certifications
+  - title: Automation & Tools
     layout: list
     content:
       - layout: left
-        title: Skills
+        title: AutoLISP & Workflow Automation
         description: |
-          - **Programming Languages:** Python, C++, MATLAB
-          - **Tools:** AutoCAD, Revit, Arduino
-          - **Domains:** Machine Learning, Embedded Systems, Predictive Modeling
+          - Developed custom **AutoLISP scripts** to speed up drawing and QA tasks:
+            - `SelWAP`: Selects and counts Wireless Access Points inside TR coverage boundaries.
+            - `CableTagger`: Auto-labels data outlets and exports schedules.
+            - `CoordCheck`: Validates WAP and CCTV block alignment with structured cabling drawings.
+          - Published on **GitHub** with usage examples and demo GIFs.
+          - Integrated with **Revit/AutoCAD workflows** to reduce manual effort.
 
       - layout: left
-        title: Certifications
+        title: Tools & Platforms
         description: |
-          - **GATE 2024 Qualified** - Data Science & AI (DS&AI)
+          - **Design Tools:** AutoCAD, Revit, Bluebeam, NetSpot, Ekahau
+          - **Networking:** Cisco Packet Tracer, FortiGate, VLAN Design
+          - **Server/VM:** VMware ESXi, vSphere, Windows Server, NTP
+          - **Documentation:** Excel, Word, PowerPoint automation (VBA / Power Query)
 
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Government Engineering College Thrissur
-        sub_title: Bachelor's Degree in Electrical and Electronics Engineering
-        caption: 2020 - 2024
+        sub_title: Bachelor's in Electrical and Electronics Engineering
+        caption: 2020 – 2024
         quote: >
-          Specialized in **Power Systems** and **Machine Learning Applications**.
+          Specialized in **Power Systems**, with project work in **Embedded Systems and Automation**.
         description: |
-          - Completed courses in **Embedded Systems, Machine Learning, and Power Electronics**.
-          - Conducted research on **Renewable Energy Integration**.
+          - Conducted final-year project on **IoT-based Battery Reuse & Data-driven Optimization**.
+          - Completed coursework in **Control Systems, Power Electronics, and Embedded Design**.
+
+  - title: Skills & Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Technical Skills
+        description: |
+          - **Software:** AutoCAD, Revit, Bluebeam Revu, NetSpot, Ekahau
+          - **Networking:** VLANs, Firewalls (FortiGate), NTP, DHCP, Layer 2/3 Switches
+          - **Scripting:** AutoLISP, Python, PowerShell, VBA
+          - **Documentation:** HLD/LLD Design, Bill of Materials, As-Built Drawings
+
+      - layout: left
+        title: Certifications (Ongoing / Completed)
+        description: |
+          - **CWNA-109** – Certified Wireless Network Administrator *(Ongoing)*
+          - **CCNA** – Cisco Certified Network Associate *(Ongoing)*
+          - **LEED Green Associate** *(Planned)*
+          - **BICSI Installer 1** *(Planned)*
+          - **GATE 2024 Qualified** – Data Science & AI (DS&AI)
+
+  - title: Projects & Internships
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: WDN (Wireless Distribution Network) Design – Airport ICT
+        quote: >
+          Developed RF propagation and coverage analysis using NetSpot and Ekahau.
+        description: |
+          - Modeled AP placements for **Zone A, Zone C, and CUP Building**.
+          - Created **heatmaps, AP summary tables, and LLDs** for review with ICT consultant.
+          - Delivered **Q&A presentation** explaining design principles and redundancy.
+
+      - layout: left
+        border: weak
+        title: Internship – KSEB Generating Station, Idukki
+        description: |
+          - Gained practical knowledge in **Hydroelectric generation** and **SCADA systems**.
+
+      - layout: left
+        border: weak
+        title: Internship – KSEB 400kV Substation, Madakkathara
+        description: |
+          - Hands-on learning in **HV protection relays, CT/PT systems, and load management**.
 
   - title: Contact
     layout: text
     content: |
       - **Email:** [athulj33@gmail.com](mailto:athulj33@gmail.com)
-      - **Phone:** [+91-9544686503](tel:+919544686503)
       - **LinkedIn:** [linkedin.com/in/athuljayanv](https://linkedin.com/in/athuljayanv)
-      - **GitHub:** [github.com/AthulJayanV](https://github.com/AthulJayanV)
+      - **GitHub:** [github.com/athulj33](https://github.com/athulj33)
 
 # Footer
-footer_show_references: true
-# references_title: References on request
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
@@ -126,10 +155,8 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "node_modules"
-  - "vendor/bundle/"
-  - "vendor/cache/"
-  - "vendor/gems/"
-  - "vendor/ruby/"
+  - "vendor/"
   - "lib/"
   - "scripts/"
   - "docker-compose.yml"
+
