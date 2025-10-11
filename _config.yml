@@ -143,6 +143,8 @@ content:
         sub_title: Electrical Intern
         description: |
           - Studied **hydroelectric power generation** processes and **SCADA-based monitoring systems**.
+          - Observed **generator control panels, turbine operations**, and **transformer maintenance**.
+          - Learned about **load dispatch and real-time grid management**.
 
       - layout: left
         border: weak
@@ -150,6 +152,8 @@ content:
         sub_title: Electrical Intern
         description: |
           - Studied **HV protection relays, CT/PT systems**, and **load management operations**.
+          - Gained insight into **switchyard safety, relay testing**, and **breaker coordination**.
+          - Assisted in routine inspection and reporting of substation components.
   - title: Contact
     layout: text
     content: |
